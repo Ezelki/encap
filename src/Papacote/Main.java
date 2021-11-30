@@ -19,9 +19,5 @@ public class Main {
         
         agenda1.showNota();
         agenda2.showNota();
-        
-        
-        
-        agenda2.showNota();
     }
 }
